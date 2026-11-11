@@ -1,5 +1,7 @@
 # vs-tipi — Repo Guidelines
 
+Read and follow [AGENTS.md](AGENTS.md).
+
 ## Prime directive
 
 `vs-tipi` is the VS Code-flavored enclosure. It consumes `tipi` via git submodule and wires it into the VS Code Agents app. **Never duplicate logic that lives in `tipi`** — add a new tool/wrapper there and reference it from here.
