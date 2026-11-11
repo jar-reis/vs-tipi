@@ -1,6 +1,8 @@
 <!-- gitnexus:start -->
 # GitNexus — Code Intelligence
 
+Fleet canon: `fleet-canon` v3 at https://github.com/JackReis/vault-fleet/blob/canon-v3/canon/fleet-canon.md (private repo). Each host resolves its local copy as `$VAULT_ROOT/canon/fleet-canon.md` from `~/.fleet/hosts.env`.
+
 This project is indexed by GitNexus as **vs-tipi** (828 symbols, 1133 relationships, 10 execution flows). Use the GitNexus MCP tools to understand code, assess impact, and navigate safely.
 
 > If any GitNexus tool warns the index is stale, run `npx gitnexus analyze` in terminal first.
